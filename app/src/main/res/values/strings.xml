@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="joanna_intro">Hello World! My name is Joanna. I love android development and traveling to new places! This is a photo of me in Pompeii, Italy!</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
